@@ -20,9 +20,10 @@ Soy desarrollador full stack de Arequipa, Perú. Diseño y construyo sistemas de
 
 Además de mis proyectos propios, soy **founder de [BizCode](https://bizcode-webpage.shiloh.workers.dev)**, donde diseño y desarrollo sitios web y sistemas a medida para clientes.
 
-- 🔭 Actualmente construyendo **FarmaGestión** (SaaS de gestión de farmacias, arquitectura hexagonal + multi-tenant)
+- 💼 Full Stack Engineer en **BSG Institute** (Sept 2025 - Mayo 2026): construí un sistema de validación de matrículas con IA que redujo la revisión manual en 96%, y APIs que alimentan el chatbot institucional usado por 1,000-10,000 alumnos
+- 🔭 Actualmente construyendo **SaaSRestaurante**, un SaaS multi-tenant con Row-Level Security forzado en PostgreSQL
 - 🌱 Profundizando en arquitectura hexagonal, multi-tenancy con Row-Level Security y sistemas en tiempo real
-- 💼 Abierto a oportunidades remotas full stack
+- 🟢 Abierto a oportunidades remotas full stack
 - 📫 Contacto: **lolozaafernandez@gmail.com** · **+51 955 668 607**
 
 ---
@@ -96,7 +97,6 @@ Sistemas completos que construí pero que hoy viven en repos privados o son entr
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **FarmaGestión** | SaaS multi-tenant de gestión de farmacias (Perú/SUNAT): inventario con lotes+kardex, POS con idempotencia, facturación electrónica SUNAT asíncrona, compras/proveedores, clientes, reportes | NestJS · Next.js · PostgreSQL (RLS) · BullMQ |
 | **hotelSaas** | Sistema de gestión hotelera: reservas, habitaciones, disponibilidad | FastAPI · React/Vite · Prisma |
 | **SaasTienda** | SaaS de punto de venta e inventario para tiendas peruanas, multi-tenant | Next.js · Supabase |
 | **Calypso** | Sistema de gestión para salón de belleza: servicios, perfil de cliente con historial, consentimiento informado con firma digital | FastAPI · PostgreSQL · Clean Architecture |
